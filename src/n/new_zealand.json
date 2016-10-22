@@ -1,0 +1,74 @@
+  {
+    "countryName":"New Zealand",
+    "countryShortCode":"NZ",
+    "regions":[
+      {
+        "name":"Auckland (Tāmaki-makau-rau)",
+        "shortCode":"AUK"
+      },
+      {
+        "name":"Bay of Plenty (Te Moana a Toi Te Huatahi)",
+        "shortCode":"BOP"
+      },
+      {
+        "name":"Canterbury (Waitaha)",
+        "shortCode":"CAN"
+      },
+      {
+        "name":"Gisborne (Tūranga nui a Kiwa)",
+        "shortCode":"GIS"
+      },
+      {
+        "name":"Hawke's Bay (Te Matau a Māui)",
+        "shortCode":"HKB"
+      },
+      {
+        "name":"Marlborough",
+        "shortCode":"MBH"
+      },
+      {
+        "name":"Manawatu-Wanganui (Manawatu Whanganui)",
+        "shortCode":"MWT"
+      },
+      {
+        "name":"Northland (Te Tai tokerau)",
+        "shortCode":"NTL"
+      },
+      {
+        "name":"Nelson (Whakatū)",
+        "shortCode":"NSN"
+      },
+      {
+        "name":"Otago (Ō Tākou)",
+        "shortCode":"OTA"
+      },
+      {
+        "name":"Southland (Murihiku)",
+        "shortCode":"STL"
+      },
+      {
+        "name":"Taranaki (Taranaki)",
+        "shortCode":"TKI"
+      },
+      {
+        "name":"Tasman",
+        "shortCode":"TAS"
+      },
+      {
+        "name":"Waikato",
+        "shortCode":"WKO"
+      },
+      {
+        "name":"Wellington (Te Whanga-nui-a-Tara)",
+        "shortCode":"WGN"
+      },
+      {
+        "name":"West Coast (Te Taihau ā uru)",
+        "shortCode":"WTC"
+      },
+      {
+        "name":"Chatham Islands Territory (Wharekauri)",
+        "shortCode":"CIT"
+      }
+    ]
+  }

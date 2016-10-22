@@ -1,0 +1,18 @@
+  {
+    "countryName":"Northern Mariana Islands",
+    "countryShortCode":"MP",
+    "regions":[
+      {
+        "name":"Northern Islands"
+      },
+      {
+        "name":"Rota"
+      },
+      {
+        "name":"Saipan"
+      },
+      {
+        "name":"Tinian"
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+  {
+    "countryName":"New Caledonia",
+    "countryShortCode":"NC",
+    "regions":[
+      {
+        "name":"Iles Loyaute"
+      },
+      {
+        "name":"Nord"
+      },
+      {
+        "name":"Sud"
+      }
+    ]
+  }
