@@ -1,0 +1,18 @@
+  {
+    "countryName":"Wallis and Futuna",
+    "countryShortCode":"WF",
+    "regions":[
+      {
+        "name":"Alo",
+        "shortCode":"ALO"
+      },
+      {
+        "name":"Sigave",
+        "shortCode":"SIG"
+      },
+      {
+        "name":"Wallis",
+        "shortCode":"WAL"
+      }
+    ]
+  }
