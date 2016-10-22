@@ -1,0 +1,42 @@
+  {
+    "countryName":"Dominican Republic",
+    "countryShortCode":"DO",
+    "regions":[
+      {
+        "name":"Cibao Central",
+        "shortCode":"02"
+      },
+      {
+        "name":"Del Valle",
+        "shortCode":"37"
+      },
+      {
+        "name":"Distrito Nacional",
+        "shortCode":"01"
+      },
+      {
+        "name":"Enriquillo",
+        "shortCode":"38"
+      },
+      {
+        "name":"Norcentral",
+        "shortCode":"04"
+      },
+      {
+        "name":"Nordeste",
+        "shortCode":"34"
+      },
+      {
+        "name":"Noroeste",
+        "shortCode":"34"
+      },
+      {
+        "name":"Norte",
+        "shortCode":"35"
+      },
+      {
+        "name":"Valdesia",
+        "shortCode":"42"
+      }
+    ]
+  }

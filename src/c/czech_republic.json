@@ -1,0 +1,62 @@
+  {
+    "countryName":"Czech Republic",
+    "countryShortCode":"CZ",
+    "regions":[
+      {
+        "name":"Hlavní město Praha",
+        "shortCode":"PR"
+      },
+      {
+        "name":"Jihočeský kraj",
+        "shortCode":"JC"
+      },
+      {
+        "name":"Jihomoravský kraj",
+        "shortCode":"JM"
+      },
+      {
+        "name":"Karlovarský kraj",
+        "shortCode":"KA"
+      },
+      {
+        "name":"Královéhradecký kraj",
+        "shortCode":"KR"
+      },
+      {
+        "name":"Liberecký kraj",
+        "shortCode":"LI"
+      },
+      {
+        "name":"Moravskoslezský kraj",
+        "shortCode":"MO"
+      },
+      {
+        "name":"Olomoucký kraj",
+        "shortCode":"OL"
+      },
+      {
+        "name":"Pardubický kraj",
+        "shortCode":"PA"
+      },
+      {
+        "name":"Plzeňský kraj",
+        "shortCode":"PL"
+      },
+      {
+        "name":"Středočeský kraj",
+        "shortCode":"ST"
+      },
+      {
+        "name":"Ústecký kraj",
+        "shortCode":"US"
+      },
+      {
+        "name":"Vysočina",
+        "shortCode":"VY"
+      },
+      {
+        "name":"Zlínský kraj",
+        "shortCode":"ZL"
+      }
+    ]
+  }

@@ -1,0 +1,90 @@
+  {
+    "countryName":"Croatia",
+    "countryShortCode":"HR",
+    "regions":[
+      {
+        "name":"Bjelovarsko-Bilogorska Županija",
+        "shortCode": "07"
+      },
+      {
+        "name":"Brodsko-Posavska Županija",
+        "shortCode": "12"
+      },
+      {
+        "name":"Dubrovačko-Neretvanska Županija",
+        "shortCode": "19"
+      },
+      {
+        "name":"Grad Zagreb",
+        "shortCode": "21"
+      },
+      {
+        "name":"Istarska Županija",
+        "shortCode": "18"
+      },
+      {
+        "name":"Karlovačka Županija",
+        "shortCode": "04"
+      },
+      {
+        "name":"Koprivničko-Krizevačka Županija",
+        "shortCode": "06"
+      },
+      {
+        "name":"Krapinsko-Zagorska Županija",
+        "shortCode": "02"
+      },
+      {
+        "name":"Ličko-Senjska Županija",
+        "shortCode": "09"
+      },
+      {
+        "name":"Međimurska Županija",
+        "shortCode": "20"
+      },
+      {
+        "name":"Osječko-Baranjska Županija",
+        "shortCode": "14"
+      },
+      {
+        "name":"Požeško-Slavonska Županija",
+        "shortCode": "11"
+      },
+      {
+        "name":"Primorsko-Goranska Županija",
+        "shortCode": "08"
+      },
+      {
+        "name":"Sisačko-Moslavačka Županija",
+        "shortCode": "03"
+      },
+      {
+        "name":"Splitsko-Dalmatinska Županija",
+        "shortCode": "17"
+      },
+      {
+        "name":"Sibensko-Kninska Županija",
+        "shortCode": "15"
+      },
+      {
+        "name":"Varaždinska Županija",
+        "shortCode": "05"
+      },
+      {
+        "name":"Virovitičko-Podravska Županija",
+        "shortCode": "10"
+      },
+      {
+        "name":"Vukovarsko-Srijemska Županija",
+        "shortCode": "16"
+      },
+      {
+        "name":"Zadarska Županija",
+        "shortCode": "13"
+      },
+      {
+        "name":"Zagrebacka Zupanija",
+        "shortCode": "01"
+      }
+    ]
+  }

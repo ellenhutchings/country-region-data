@@ -1,0 +1,22 @@
+  {
+    "countryName":"Brunei Darussalam",
+    "countryShortCode":"BN",
+    "regions":[
+      {
+        "name":"Belait",
+        "shortCode":"BE"
+      },
+      {
+        "name":"Brunei Muara",
+        "shortCode":"BM"
+      },
+      {
+        "name":"Temburong",
+        "shortCode":"TE"
+      },
+      {
+        "name":"Tutong",
+        "shortCode":"TU"
+      }
+    ]
+  }

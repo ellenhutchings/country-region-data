@@ -1,6 +1,5 @@
 var _ = require('underscore');
 
-
 var findDuplicates = function (sourceArray, prop) {
   var duplicates = [];
   var groupedByCount = _.countBy(sourceArray, function (item) { return item[prop]; });
@@ -19,7 +18,7 @@ var findDuplicates = function (sourceArray, prop) {
 var getJSON = function (grunt) {
   var content = '';
   try {
-    content = grunt.file.readJSON("data.json");
+    content = grunt.file.readJSON("dist/data.json");
   } catch (e) {
     grunt.fail.fatal("data.json is not valid JSON. Error: " + e);
   }
@@ -28,6 +27,21 @@ var getJSON = function (grunt) {
 
 
 module.exports = function(grunt) {
+  grunt.loadNpmTasks('grunt-contrib-concat');
+    
+  grunt.initConfig({
+    concat: {
+        json: {
+            src: ['src/*/*.json', 'src/*.json'],
+            dest: 'dist/data.json',
+            options: {
+                banner: "[\n",
+                footer: "\n]",
+                separator: ",\n"
+            }
+        }
+    }
+  });
 
   function validate () {
     var content = getJSON(grunt);
@@ -74,7 +88,8 @@ module.exports = function(grunt) {
     }
   }
 
-  grunt.registerTask("default", ['validate']);
+  grunt.registerTask('build', ['concat:json']);
   grunt.registerTask("validate", validate);
+  grunt.registerTask('default', ['build', 'validate' ]);
   grunt.registerTask("findIncomplete", findIncomplete);
 };

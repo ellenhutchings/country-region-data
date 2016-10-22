@@ -1,0 +1,34 @@
+  {
+    "countryName":"Belarus",
+    "countryShortCode":"BY",
+    "regions":[
+      {
+        "name":"Brest voblast",
+        "shortCode":"BR"
+      },
+      {
+        "name":"Gorod Minsk",
+        "shortCode":"HO"
+      },
+      {
+        "name":"Homiel voblast",
+        "shortCode":"HO"
+      },
+      {
+        "name":"Hrodna voblast",
+        "shortCode":"HR"
+      },
+      {
+        "name":"Mahilyow voblast",
+        "shortCode":"MA"
+      },
+      {
+        "name":"Minsk voblast",
+        "shortCode":"MI"
+      },
+      {
+        "name":"Vitsebsk voblast",
+        "shortCode":"VI"
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+  {
+    "countryName":"British Indian Ocean Territory",
+    "countryShortCode":"IO",
+    "regions":[
+      {
+        "name":"British Indian Ocean Territory",
+        "shortCode": "IO"
+      }
+    ]
+  }

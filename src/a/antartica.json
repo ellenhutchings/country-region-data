@@ -1,0 +1,10 @@
+  {
+    "countryName":"Antarctica",
+    "countryShortCode":"AQ",
+    "regions":[
+      {
+      "name":"Antarctica",
+      "shortCode":"AQ"
+      }
+    ]
+  }

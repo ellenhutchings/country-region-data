@@ -1,0 +1,18 @@
+  {
+    "countryName":"Belgium",
+    "countryShortCode":"BE",
+    "regions":[
+      {
+        "name":"Bruxelles-Capitale",
+        "shortCode":"BRU"
+      },
+      {
+        "name":"Région Flamande",
+        "shortCode":"VLG"
+      },
+      {
+        "name":"Région Wallonië",
+        "shortCode":"WAL"
+      }
+    ]
+  }

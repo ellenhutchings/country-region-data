@@ -1,0 +1,30 @@
+  {
+    "countryName":"Finland",
+    "countryShortCode":"FI",
+    "regions":[
+      {
+        "name":"Ahvenanmaan lääni",
+        "shortCode":"AL"
+      },
+      {
+        "name":"Etelä-Suomen lääni",
+        "shortCode":"ES"
+      },
+      {
+        "name":"Itä-Suomen lääni",
+        "shortCode":"IS"
+      },
+      {
+        "name":"Länsi-Suomen lääni",
+        "shortCode":"LS"
+      },
+      {
+        "name":"Lapin lääni",
+        "shortCode":"LL"
+      },
+      {
+        "name":"Oulun lääni",
+        "shortCode":"OL"
+      }
+    ]
+  }

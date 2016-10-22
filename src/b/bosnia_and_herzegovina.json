@@ -1,0 +1,18 @@
+  {
+    "countryName":"Bosnia and Herzegovina",
+    "countryShortCode":"BA",
+    "regions":[
+      {
+        "name":"Brčko Distrikt",
+        "shortCode":"BRC"
+      },
+      {
+        "name":"Federacija Bosne i Hercegovine",
+        "shortCode":"BIH"
+      },
+      {
+        "name":"Republika Srpska",
+        "shortCode":"SRP"
+      }
+    ]
+  }

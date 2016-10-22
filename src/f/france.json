@@ -1,0 +1,146 @@
+  {
+    "countryName":"France",
+    "countryShortCode":"FR",
+    "regions":[
+      {
+        "name":"Alsace",
+        "shortCode": "A"
+      },
+      {
+        "name":"Aquitaine",
+        "shortCode": "B"
+      },
+      {
+        "name":"Auvergne",
+        "shortCode": "C"
+      },
+      {
+        "name":"Basse-Normandie",
+        "shortCode": "P"
+      },
+      {
+        "name":"Bourgogne",
+        "shortCode": "D"
+      },
+      {
+        "name":"Bretagne",
+        "shortCode": "E"
+      },
+      {
+        "name":"Centre",
+        "shortCode": "F"
+      },
+      {
+        "name":"Champagne-Ardenne",
+        "shortCode": "G"
+      },
+      {
+        "name":"Corse",
+        "shortCode": "H"
+      },
+      {
+        "name":"Franche-Comté",
+        "shortCode": "I"
+      },
+      {
+        "name":"Haute-Normandie",
+        "shortCode": "Q"
+      },
+      {
+        "name":"Île-de-France",
+        "shortCode": "J"
+      },
+      {
+        "name":"Languedoc-Roussillon",
+        "shortCode": "K"
+      },
+      {
+        "name":"Limousin",
+        "shortCode": "L"
+      },
+      {
+        "name":"Lorraine",
+        "shortCode": "M"
+      },
+      {
+        "name":"Midi-Pyrénées",
+        "shortCode": "N"
+      },
+      {
+        "name":"Nord-Pas-de-Calais",
+        "shortCode": "O"
+      },
+      {
+        "name":"Pays de la Loire",
+        "shortCode": "R"
+      },
+      {
+        "name":"Picardie",
+        "shortCode": "S"
+      },
+      {
+        "name":"Poitou-Charentes",
+        "shortCode": "T"
+      },
+      {
+        "name":"Provence-Alpes-Cote d'Azur",
+        "shortCode": "U"
+      },
+      {
+        "name":"Rhone-Alpes",
+        "shortCode": "V"
+      },
+      {
+        "name":"Clipperton",
+        "shortCode": "CP"
+      },
+      {
+        "name":"Guadeloupe",
+        "shortCode": "GP"
+      },
+      {
+        "name":"Guyane",
+        "shortCode": "GF"
+      },
+      {
+        "name":"Martinique",
+        "shortCode": "MQ"
+      },
+      {
+        "name":"Mayotte",
+        "shortCode": "YT"
+      },
+      {
+        "name":"Novelle-Calédonie",
+        "shortCode": "NC"
+      },
+      {
+        "name":"Polynésie",
+        "shortCode": "PF"
+      },
+      {
+        "name":"Saint-Pierre-et-Miquelon",
+        "shortCode": "PM"
+      },
+      {
+        "name":"Saint Barthélemy",
+        "shortCode": "BL"
+      },
+      {
+        "name":"Saint Martin",
+        "shortCode": "MF"
+      },
+      {
+        "name":"Réunion",
+        "shortCode": "RE"
+      },
+      {
+        "name":"Terres Australes Françaises",
+        "shortCode": "TF"
+      },
+      {
+        "name":"Wallis-et-Futuna",
+        "shortCode": "WF"
+      }
+    ]
+  }
