@@ -1,0 +1,15 @@
+  {
+    "countryName":"Montserrat",
+    "countryShortCode":"MS",
+    "regions":[
+      {
+        "name":"Saint Anthony"
+      },
+      {
+        "name":"Saint Georges"
+      },
+      {
+        "name":"Saint Peter's"
+      }
+    ]
+  }

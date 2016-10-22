@@ -1,0 +1,66 @@
+  {
+    "countryName":"Morocco",
+    "countryShortCode":"MA",
+    "regions":[
+      {
+        "name":"Chaouia-Ouardigha",
+        "shortCode":"09"
+      },
+      {
+        "name":"Doukhala-Abda",
+        "shortCode":"10"
+      },
+      {
+        "name":"Fès-Boulemane",
+        "shortCode":"05"
+      },
+      {
+        "name":"Gharb-Chrarda-Beni Hssen",
+        "shortCode":"02"
+      },
+      {
+        "name":"Grand Casablanca",
+        "shortCode":"08"
+      },
+      {
+        "name":"Guelmim-Es Semara",
+        "shortCode":"14"
+      },
+      {
+        "name":"Laâyoune-Boujdour-Sakia el Hamra",
+        "shortCode":"15"
+      },
+      {
+        "name":"Marrakech-Tensift-Al Haouz",
+        "shortCode":"11"
+      },
+      {
+        "name":"Meknès-Tafilalet",
+        "shortCode":"06"
+      },
+      {
+        "name":"Oriental",
+        "shortCode":"04"
+      },
+      {
+        "name":"Oued ed Dahab-Lagouira",
+        "shortCode":"16"
+      },
+      {
+        "name":"Souss-Massa-Drâa",
+        "shortCode":"13"
+      },
+      {
+        "name":"Tadla-Azilal",
+        "shortCode":"12"
+      },
+      {
+        "name":"Tanger-Tétouan",
+        "shortCode":"01"
+      },
+      {
+        "name":"Taza-Al Hoceima-Taounate",
+        "shortCode":"03"
+      }
+    ]
+  }
