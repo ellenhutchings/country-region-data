@@ -1,0 +1,15 @@
+  {
+    "countryName":"Tokelau",
+    "countryShortCode":"TK",
+    "regions":[
+      {
+        "name":"Atafu"
+      },
+      {
+        "name":"Fakaofo"
+      },
+      {
+        "name":"Nukunonu"
+      }
+    ]
+  }
