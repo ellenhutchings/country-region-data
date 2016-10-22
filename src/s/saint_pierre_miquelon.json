@@ -1,0 +1,12 @@
+  {
+    "countryName":"Saint Pierre and Miquelon",
+    "countryShortCode":"PM",
+    "regions":[
+      {
+        "name":"Miquelon"
+      },
+      {
+        "name":"Saint Pierre"
+      }
+    ]
+  }

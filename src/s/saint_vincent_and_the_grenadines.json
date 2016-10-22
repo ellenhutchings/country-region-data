@@ -1,0 +1,30 @@
+  {
+    "countryName":"Saint Vincent and the Grenadines",
+    "countryShortCode":"VC",
+    "regions":[
+      {
+        "name":"Charlotte",
+        "shortCode":"01"
+      },
+      {
+        "name":"Grenadines",
+        "shortCode":"06"
+      },
+      {
+        "name":"Saint Andrew",
+        "shortCode":"02"
+      },
+      {
+        "name":"Saint David",
+        "shortCode":"03"
+      },
+      {
+        "name":"Saint George",
+        "shortCode":"04"
+      },
+      {
+        "name":"Saint Patrick",
+        "shortCode":"05"
+      }
+    ]
+  }

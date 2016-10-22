@@ -1,0 +1,14 @@
+  {
+    "countryName":"Saint Kitts and Nevis",
+    "countryShortCode":"KN",
+    "regions":[
+      {
+        "name":"Saint Kitts",
+        "shortCode":"K"
+      },
+      {
+        "name":"Nevis",
+        "shortCode":"N"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+  {
+    "countryName":"Sao Tome and Principe",
+    "countryShortCode":"ST",
+    "regions":[
+      {
+        "name":"Principe",
+        "shortCode":"P"
+      },
+      {
+        "name":"Sao Tome",
+        "shortCode":"S"
+      }
+    ]
+  }

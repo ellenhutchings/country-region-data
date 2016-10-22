@@ -1,0 +1,22 @@
+  {
+    "countryName":"Sierra Leone",
+    "countryShortCode":"SL",
+    "regions":[
+      {
+        "name":"Eastern",
+        "shortCode":"E"
+      },
+      {
+        "name":"Northern",
+        "shortCode":"N"
+      },
+      {
+        "name":"Southern",
+        "shortCode":"S"
+      },
+      {
+        "name":"Western",
+        "shortCode":"W"
+      }
+    ]
+  }

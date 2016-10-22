@@ -1,0 +1,30 @@
+  {
+    "countryName":"South Georgia and South Sandwich Islands",
+    "countryShortCode":"GS",
+    "regions":[
+      {
+        "name":"Bird Island"
+      },
+      {
+        "name":"Bristol Island"
+      },
+      {
+        "name":"Clerke Rocks"
+      },
+      {
+        "name":"Montagu Island"
+      },
+      {
+        "name":"Saunders Island"
+      },
+      {
+        "name":"South Georgia"
+      },
+      {
+        "name":"Southern Thule"
+      },
+      {
+        "name":"Traversay Islands"
+      }
+    ]
+  }

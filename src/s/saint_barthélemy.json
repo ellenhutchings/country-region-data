@@ -1,0 +1,14 @@
+  {
+    "countryName":"Saint Barthélemy",
+    "countryShortCode":"BL",
+    "regions":[
+      {
+        "name":"Au Vent",
+        "shortCode":"02"
+      },
+      {
+        "name":"Sous le Vent",
+        "shortCode":"01"
+      }
+    ]
+  }
