@@ -32,7 +32,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     concat: {
         json: {
-            src: ['src/*/*.json', 'src/*.json'],
+            src: ['src/*/*.json'],
             dest: 'dist/data.json',
             options: {
                 banner: "[\n",

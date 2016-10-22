@@ -5447,44 +5447,6 @@
     ]
   },
   {
-    "countryName":"Guinea",
-    "countryShortCode":"GN",
-    "regions":[
-      {
-        "name":"Boké",
-        "shortCode": "B"
-      },
-      {
-        "name":"Conakry",
-        "shortCode": "C"
-      },
-      {
-        "name":"Faranah",
-        "shortCode": "F"
-      },
-      {
-        "name":"Kankan",
-        "shortCode": "K"
-      },
-      {
-        "name":"Kindia",
-        "shortCode": "D"
-      },
-      {
-        "name":"Labé",
-        "shortCode": "L"
-      },
-      {
-        "name":"Mamou",
-        "shortCode": "M"
-      },
-      {
-        "name":"Nzérékoré",
-        "shortCode": "N"
-      }
-    ]
-  },
-  {
     "countryName":"Guinea-Bissau",
     "countryShortCode":"GW",
     "regions":[
@@ -5523,6 +5485,44 @@
       {
         "name":"Tombali",
         "shortCode":"TO"
+      }
+    ]
+  },
+  {
+    "countryName":"Guinea",
+    "countryShortCode":"GN",
+    "regions":[
+      {
+        "name":"Boké",
+        "shortCode": "B"
+      },
+      {
+        "name":"Conakry",
+        "shortCode": "C"
+      },
+      {
+        "name":"Faranah",
+        "shortCode": "F"
+      },
+      {
+        "name":"Kankan",
+        "shortCode": "K"
+      },
+      {
+        "name":"Kindia",
+        "shortCode": "D"
+      },
+      {
+        "name":"Labé",
+        "shortCode": "L"
+      },
+      {
+        "name":"Mamou",
+        "shortCode": "M"
+      },
+      {
+        "name":"Nzérékoré",
+        "shortCode": "N"
       }
     ]
   },
@@ -7781,8 +7781,8 @@
       {
         "name":"Jaunjelgava",
         "shortCode":"038"
-  },
-  {
+      },
+      {
         "name":"Jaunpiebalga",
         "shortCode":"039"
       },
@@ -17634,6 +17634,56 @@
     ]
   },
   {
+    "countryName":"United States Minor Outlying Islands",
+    "countryShortCode":"UM",
+    "regions":[
+      {
+        "name":"Baker Island",
+        "shortCode":"81"
+      },
+      {
+        "name":"Howland Island",
+        "shortCode":"84"
+      },
+      {
+        "name":"Jarvis Island",
+        "shortCode":"86"
+      },
+      {
+        "name":"Johnston Atoll",
+        "shortCode":"67"
+      },
+      {
+        "name":"Kingman Reef",
+        "shortCode":"89"
+      },
+      {
+        "name":"Midway Islands",
+        "shortCode":"71"
+      },
+      {
+        "name":"Navassa Island",
+        "shortCode":"76"
+      },
+      {
+        "name":"Palmyra Atoll",
+        "shortCode":"95"
+      },
+      {
+        "name":"Wake Island",
+        "shortCode":"79"
+      },
+      {
+        "name":"Bajo Nuevo Bank",
+        "shortCode":"BN"
+      },
+      {
+        "name":"Serranilla Bank",
+        "shortCode":"SB"
+      }
+    ]
+  },
+  {
     "countryName":"United States",
     "countryShortCode":"US",
     "regions":[
@@ -17884,56 +17934,6 @@
       {
         "name":"Armed Forces Pacific",
         "shortCode":"AP"
-      }
-    ]
-  },
-  {
-    "countryName":"United States Minor Outlying Islands",
-    "countryShortCode":"UM",
-    "regions":[
-      {
-        "name":"Baker Island",
-        "shortCode":"81"
-      },
-      {
-        "name":"Howland Island",
-        "shortCode":"84"
-      },
-      {
-        "name":"Jarvis Island",
-        "shortCode":"86"
-      },
-      {
-        "name":"Johnston Atoll",
-        "shortCode":"67"
-      },
-      {
-        "name":"Kingman Reef",
-        "shortCode":"89"
-      },
-      {
-        "name":"Midway Islands",
-        "shortCode":"71"
-      },
-      {
-        "name":"Navassa Island",
-        "shortCode":"76"
-      },
-      {
-        "name":"Palmyra Atoll",
-        "shortCode":"95"
-      },
-      {
-        "name":"Wake Island",
-        "shortCode":"79"
-      },
-      {
-        "name":"Bajo Nuevo Bank",
-        "shortCode":"BN"
-      },
-      {
-        "name":"Serranilla Bank",
-        "shortCode":"SB"
       }
     ]
   },
