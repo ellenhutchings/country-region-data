@@ -1,0 +1,10 @@
+  {
+    "countryName":"Holy See (Vatican City)",
+    "countryShortCode":"VA",
+    "regions":[
+      {
+        "name":"Holy See (Vatican City)",
+        "shortCode":"01"
+      }
+    ]
+  }
