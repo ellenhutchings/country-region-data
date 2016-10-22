@@ -1,0 +1,18 @@
+  {
+    "countryName":"Virgin Islands, U.S.",
+    "countryShortCode":"VI",
+    "regions":[
+      {
+        "name":"St. Thomas",
+        "shortCode":"STH"
+      },
+      {
+        "name":"St. John",
+        "shortCode":"SJO"
+      },
+      {
+        "name":"St. Croix",
+        "shortCode":"SCR"
+      }
+    ]
+  }

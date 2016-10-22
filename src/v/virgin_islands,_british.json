@@ -1,0 +1,22 @@
+  {
+    "countryName":"Virgin Islands, British",
+    "countryShortCode":"VG",
+    "regions":[
+      {
+        "name":"Anegada",
+        "shortCode":"ANG"
+      },
+      {
+        "name":"Jost Van Dyke",
+        "shortCode":"JVD"
+      },
+      {
+        "name":"Tortola",
+        "shortCode":"TTA"
+      },
+      {
+        "name":"Virgin Gorda",
+        "shortCode":"VGD"
+      }
+    ]
+  }
