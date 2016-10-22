@@ -1,0 +1,46 @@
+  {
+    "countryName":"Ghana",
+    "countryShortCode":"GH",
+    "regions":[
+      {
+        "name":"Ashanti",
+        "shortCode":"AH"
+      },
+      {
+        "name":"Brong-Ahafo",
+        "shortCode":"BA"
+      },
+      {
+        "name":"Central",
+        "shortCode":"CP"
+      },
+      {
+        "name":"Eastern",
+        "shortCode":"EP"
+      },
+      {
+        "name":"Greater Accra",
+        "shortCode":"AA"
+      },
+      {
+        "name":"Northern",
+        "shortCode":"NP"
+      },
+      {
+        "name":"Upper East",
+        "shortCode":"UE"
+      },
+      {
+        "name":"Upper West",
+        "shortCode":"UW"
+      },
+      {
+        "name":"Volta",
+        "shortCode":"TV"
+      },
+      {
+        "name":"Western",
+        "shortCode":"WP"
+      }
+    ]
+  }

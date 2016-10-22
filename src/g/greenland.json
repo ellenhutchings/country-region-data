@@ -1,0 +1,22 @@
+  {
+    "countryName":"Greenland",
+    "countryShortCode":"GL",
+    "regions":[
+      {
+        "name":"Kommune Kujalleq",
+        "shortCode": "KU"
+      },
+      {
+        "name":"Kommuneqarfik Sermersooq",
+        "shortCode": "SM"
+      },
+      {
+        "name":"Qaasuitsup Kommunia",
+        "shortCode": "QA"
+      },
+      {
+        "name": "Qeqqata Kommunia",
+        "shortCode": "QE"
+      }
+    ]
+  }
