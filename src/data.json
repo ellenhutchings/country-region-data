@@ -1,38 +1,4 @@
   {
-    "countryName":"Qatar",
-    "countryShortCode":"QA",
-    "regions":[
-      {
-        "name":"Ad Dawḩah",
-        "shortCode":"DA"
-      },
-      {
-        "name":"Al Khawr wa adh Dhakhīrah",
-        "shortCode":"KH"
-      },
-      {
-        "name":"Al Wakrah",
-        "shortCode":"WA"
-      },
-      {
-        "name":"Ar Rayyān",
-        "shortCode":"RA"
-      },
-      {
-        "name":"Ash Shamāl",
-        "shortCode":"MS"
-      },
-      {
-        "name":"Az̧ Za̧`āyin",
-        "shortCode":"ZA"
-      },
-      {
-        "name":"Umm Şalāl",
-        "shortCode":"US"
-      }
-    ]
-  },
-  {
     "countryName":"Réunion",
     "countryShortCode":"RE",
     "regions":[
